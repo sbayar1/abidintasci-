@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin:0;padding:0;background:#f9f9f9;line-height:1.6; }
+header { background:#2c3e50;color:#fff;text-align:center;padding:15px;}
+nav a { color:#ecf0f1;margin:0 12px;text-decoration:none;font-weight:bold;}
+section { background:#fff;margin:20px;padding:20px;border-radius:6px; }
+footer { background:#2c3e50;color:#fff;text-align:center;padding:10px;margin-top:20px;}
+blockquote { background:#ecf0f1;padding:10px 15px;border-left:4px solid #3498db; }
